@@ -13,6 +13,6 @@ https://github.com/user-attachments/assets/3f521e39-aca7-4ca3-ac6d-3b955b208a6d
 
 ---
 Todo:  
-- [] circles (which become bombs, useful for destroying walls or altering the velocity of arrows)
-- [] brainstorm some other shapes and how they could synergise with other shapes  
-- [] multiplayer demo with a basic gameplay loop  
+- [ ] circles (which become bombs, useful for destroying walls or altering the velocity of arrows)
+- [ ] brainstorm some other shapes and how they could synergise with other shapes  
+- [ ] multiplayer demo with a basic gameplay loop  
