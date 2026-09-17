@@ -1,7 +1,8 @@
 # scribrawl  
 online multiplayer game about scribbling and brawling  
   
-**update:** unfortunately put on hold for the time being because Unity's relay system doesn't provide a low latency multiplayer solution, which is kind of necessary for a multiplayer pvp game (especially a physics based one.)    
+**update: unfortunately put on hold for the time being because Unity's relay system doesn't provide a low latency multiplayer solution, which is kind of necessary for a multiplayer pvp game (especially a physics based one.)**    
+  
 the game uses the [$1 Detection algorithm](http://depts.washington.edu/acelab/proj/dollar/index.html) to identfity drawn (scribbled) patterns  
 we're using [SteBeeGizmo](https://github.com/SteBeeGizmo/DollarUnity)'s implementation for this game  
 the goal is to make a PvP online fighting game where the players make use of synergies between shapes to damage their opponent  
